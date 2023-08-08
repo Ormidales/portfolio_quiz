@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Quiz Interactif</title>
+</head>
+<body>
+    <div class="quiz-container">
+        <div class="progress-bar">
+            <div class="progress"></div>
+        </div>
+        <h1>Quiz Interactif</h1>
+        <p>Vies restantes: <span class="lives">3</span></p>
+        <div class="score-container">
+            <p>Score: <span class="score">0</span></p>
+            <p>Question <span class="question-number">1</span> sur <span class="total-questions">0</span></p>
+        </div>
+        <div class="question-container">
+            <p class="question"></p>
+        </div>
+        <div class="answer-container">
+            <button class="answer"></button>
+            <button class="answer"></button>
+            <button class="answer"></button>
+            <button class="answer"></button>
+        </div>
+        <div class="feedback" style="display: none;"></div>
+        <div class="result-message" style="display: none;">
+            <p class="message"></p>
+            <button class="restart-button">Relancer le quiz</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
