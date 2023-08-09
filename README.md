@@ -1,7 +1,7 @@
 # Quiz Interactif pour mon portfolio
 Un quiz interactif simple réalisé en HTML, CSS et JavaScript. Testez vos connaissances en répondant à une série de questions et voyez si vous pouvez obtenir le meilleur score !
 
-![image](https://github.com/Ormidales/portfolio_quiz/assets/46538211/9faed5ac-fb06-4174-b956-4783e551220f)
+![image](https://github.com/Ormidales/portfolio_quiz/assets/46538211/3ae73aed-7c56-4d3c-8ba0-ce2b60b2e56c)
 
 ## Fonctionnalités
 - Questions aléatoires pour chaque session.
